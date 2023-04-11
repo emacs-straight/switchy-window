@@ -3,12 +3,12 @@
 ;; Copyright (C) 2023 Free Software Foundation, Inc
 ;;
 ;; Author: Tassilo Horn <tsdh@gnu.org>
-;; Version: 1.0
+;; Version: 1.1
 ;; Keywords: windows
 ;; Homepage: https://sr.ht/~tsdh/switchy-window/
 ;; Repository: https://git.sr.ht/~tsdh/switchy-window
 ;; Bug-Tracker: https://todo.sr.ht/~tsdh/switchy-window
-;; Package-Requires: ((emacs "25.1") (compat "29.1.3.4"))
+;; Package-Requires: ((emacs "25.1") (compat "29.1.4.1"))
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 ;;
 ;; This file is part of GNU Emacs.
