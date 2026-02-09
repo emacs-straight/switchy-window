@@ -1,2 +1,2 @@
 ;; Generated package description from switchy-window.el  -*- no-byte-compile: t -*-
-(define-package "switchy-window" "1.3.0.20230411.180529" "A most-recently-used window switcher" '((emacs "25.1") (compat "29.1.4.1")) :commit "c743c47b7b4326c411470ba98410b7bfe3685edc" :authors '(("Tassilo Horn" . "tsdh@gnu.org")) :maintainer '("Tassilo Horn" . "tsdh@gnu.org") :keywords '("windows") :url "https://sr.ht/~tsdh/switchy-window/")
+(define-package "switchy-window" "1.4.0.20260208.102948" "A most-recently-used window switcher" '((emacs "25.1") (compat "29.1.4.1")) :commit "3ac4e522231a052e9beaa2d25478090d1215c7ae" :authors '(("Tassilo Horn" . "tsdh@gnu.org")) :maintainer '("Tassilo Horn" . "tsdh@gnu.org") :keywords '("windows") :url "https://sr.ht/~tsdh/switchy-window/")
